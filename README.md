@@ -1,5 +1,7 @@
 # TOP_CODERS
-Our site is an innnovative solution for a real life problem of lawyers that face lack of a good community and fail to get a spark in the field because of lack of proper guidance which is offered by our community and also the study material to get upper edge in their legal career and get a headstart.
+ The site provides resources and information about the exams that law students must take, as well as a community forum where students can connect with their peers and receive support and guidance.
+The exam resources on your site are tailored to the specific needs of law students, offering in-depth explanations of exam formats, tips for effective studying, and practice questions to help students prepare for their exams. The community forum provides a space for students to connect with one another, ask questions, and share advice and tips for success.
+Overall, our site is an invaluable resource for law students in India, offering a comprehensive set of tools and resources to help them navigate their academic journey and achieve success in their studies.
 #Screenshots
 ![homescreen](https://user-images.githubusercontent.com/122734275/229337216-69e28e89-ece6-4afb-be36-9a3db135f4b3.png)
 ![Top stories](https://user-images.githubusercontent.com/122734275/229337230-864df816-17c1-4d66-8bcf-76b85aa04fa9.png)
