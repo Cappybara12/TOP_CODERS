@@ -1,7 +1,7 @@
 # TOP_CODERS
 Our site is an innnovative solution for a real life problem of lawyers that face lack of a good community and fail to get a spark in the field because of lack of proper guidance which is offered by our community and also the study material to get upper edge in their legal career and get a headstart.
 #Screenshots
-![homescreen](<img width="948" alt="Screenshot 2023-04-02 113732" src="https://user-images.githubusercontent.com/122734275/229337216-69e28e89-ece6-4afb-be36-9a3db135f4b3.png">
+![homescreen](<img width="948" alt="Screenshot 2023-04-02 113732" src="https://user-images.githubusercontent.com/122734275/229337216-69e28e89-ece6-4afb-be36-9a3db135f4b3.png">)
 ![Top stories](<img width="948" alt="Screenshot 2023-04-02 113733" src="https://user-images.githubusercontent.com/122734275/229337230-864df816-17c1-4d66-8bcf-76b85aa04fa9.png>")
 ![Know THe LAw](<img width="948" alt="Screenshot 2023-04-02 113735" src="https://user-images.githubusercontent.com/122734275/229337254-3dc3ad76-246b-468a-bd51-10cf78697030.png>")
 ![roadmap](<img width="948" alt="Screenshot 2023-04-02 113733" src="https://user-images.githubusercontent.com/122734275/229337254-3dc3ad76-246b-468a-bd51-10cf78697030.png>")
