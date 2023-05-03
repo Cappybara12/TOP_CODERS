@@ -3,10 +3,10 @@ Our site is an innnovative solution for a real life problem of lawyers that face
 #Screenshots
 ![homescreen](https://user-images.githubusercontent.com/122734275/229337216-69e28e89-ece6-4afb-be36-9a3db135f4b3.png)
 ![Top stories](https://user-images.githubusercontent.com/122734275/229337230-864df816-17c1-4d66-8bcf-76b85aa04fa9.png)
-![Know THe LAw](<img width="948" alt="Screenshot 2023-04-02 113735" src="https://user-images.githubusercontent.com/122734275/229337254-3dc3ad76-246b-468a-bd51-10cf78697030.png>")
-![roadmap](<img width="948" alt="Screenshot 2023-04-02 113733" src="https://user-images.githubusercontent.com/122734275/229337254-3dc3ad76-246b-468a-bd51-10cf78697030.png>")
-![monetize](<img width="948" alt="Screenshot 2023-04-02 113732" src="https://user-images.githubusercontent.com/122734275/229337283-af127483-f75e-47f2-9efa-53616630d8e5.png>")
-![gamelevel_intro](<img width="948" alt="Screenshot 2023-04-02 113739" src="https://user-images.githubusercontent.com/122734275/229337265-e6372e86-0a1f-4390-8b02-4f8839a5d507.png>")
+![Know THe LAw](https://user-images.githubusercontent.com/122734275/229337254-3dc3ad76-246b-468a-bd51-10cf78697030.png)
+![roadmap](https://user-images.githubusercontent.com/122734275/229337254-3dc3ad76-246b-468a-bd51-10cf78697030.png)
+![monetize](https://user-images.githubusercontent.com/122734275/229337283-af127483-f75e-47f2-9efa-53616630d8e5.png)
+![gamelevel_intro](https://user-images.githubusercontent.com/122734275/229337265-e6372e86-0a1f-4390-8b02-4f8839a5d507.png)
 # Steps to run locally
 • Pull from gitHub
 
