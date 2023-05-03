@@ -9,6 +9,8 @@ Overall, our site is an invaluable resource for law students in India, offering 
 ![roadmap](https://user-images.githubusercontent.com/122734275/229337254-3dc3ad76-246b-468a-bd51-10cf78697030.png)
 ![monetize](https://user-images.githubusercontent.com/122734275/229337283-af127483-f75e-47f2-9efa-53616630d8e5.png)
 ![gamelevel_intro](https://user-images.githubusercontent.com/122734275/229337265-e6372e86-0a1f-4390-8b02-4f8839a5d507.png)
+![community_page](https://user-images.githubusercontent.com/122734275/235961140-011b63b3-f891-40f5-a63d-87a57de0578c.png)
+
 # Steps to run locally
 • Pull from gitHub
 
